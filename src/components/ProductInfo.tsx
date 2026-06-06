@@ -1,4 +1,4 @@
-const BUY_LINK = "https://your-shopify-product-link.com";
+const BUY_LINK = "https://1-grate-shirt.myshopify.com/products/unisex-garment-dyed-t-shirt?variant=59618531180625";
 
 export default function ProductInfo() {
   return (
